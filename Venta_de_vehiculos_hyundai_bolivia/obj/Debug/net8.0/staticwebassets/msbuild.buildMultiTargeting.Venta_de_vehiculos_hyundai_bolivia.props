@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Venta_de_vehiculos_hyundai_bolivia.props" />
+</Project>

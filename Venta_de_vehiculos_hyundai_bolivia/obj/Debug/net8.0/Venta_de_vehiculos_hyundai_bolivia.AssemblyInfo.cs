@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Venta_de_vehiculos_hyundai_bolivia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93ef3d0dbf3e02d70f51cda85f9da5fb509c0b7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b8e9fc37e186937ca26d3504479fea4e748048")]
 [assembly: System.Reflection.AssemblyProductAttribute("Venta_de_vehiculos_hyundai_bolivia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Venta_de_vehiculos_hyundai_bolivia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

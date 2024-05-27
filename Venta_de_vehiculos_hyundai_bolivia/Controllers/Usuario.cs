@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Venta_de_vehiculos_hyundai_bolivia.Datos;
 
 namespace Venta_de_vehiculos_hyundai_bolivia.Controllers
 {
@@ -8,7 +9,7 @@ namespace Venta_de_vehiculos_hyundai_bolivia.Controllers
         public int Id { get; set; }
         public string? Email { get; set; }
         public string? Password { get; set; }
-        public RolEnum? Rol { get; set; }
+        public RolEnum Rol { get; set; }    
 
         public virtual List<Venta>? Ventas { get; set; }
     }
