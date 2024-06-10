@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROYECTO ACTUAL\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj": {}
+    "E:\\PROYECTO FINAL\\Proyecto_web--SIS-2420\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj": {}
   },
   "projects": {
-    "E:\\PROYECTO ACTUAL\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj": {
+    "E:\\PROYECTO FINAL\\Proyecto_web--SIS-2420\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROYECTO ACTUAL\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj",
+        "projectUniqueName": "E:\\PROYECTO FINAL\\Proyecto_web--SIS-2420\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj",
         "projectName": "Venta_de_vehiculos_hyundai_bolivia",
-        "projectPath": "E:\\PROYECTO ACTUAL\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj",
+        "projectPath": "E:\\PROYECTO FINAL\\Proyecto_web--SIS-2420\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj",
         "packagesPath": "C:\\Users\\MR ROBOT\\.nuget\\packages\\",
-        "outputPath": "E:\\PROYECTO ACTUAL\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia\\obj\\",
+        "outputPath": "E:\\PROYECTO FINAL\\Proyecto_web--SIS-2420\\Venta_de_vehiculos_hyundai_bolivia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

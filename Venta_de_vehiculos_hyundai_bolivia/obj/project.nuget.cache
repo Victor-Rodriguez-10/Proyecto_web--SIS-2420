@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q8mqtJb2ZvXOiRRec9QnpHOGm02cMxyHjyfDdHF2kq+8Whwc5cOHH4ZYLXVkKKM8i5V5Edb1PmyjC89RgxXj/g==",
+  "dgSpecHash": "JDEy7gRoZRjWw6KyT6KgQ2iLaZKusgYcv9iOihkvt3A/AedkOp+YwrAa/y64EDUaRSCuTlN4knw1PUpAYBFy3A==",
   "success": true,
-  "projectFilePath": "E:\\PROYECTO ACTUAL\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj",
+  "projectFilePath": "E:\\PROYECTO FINAL\\Proyecto_web--SIS-2420\\Venta_de_vehiculos_hyundai_bolivia\\Venta_de_vehiculos_hyundai_bolivia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MR ROBOT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MR ROBOT\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

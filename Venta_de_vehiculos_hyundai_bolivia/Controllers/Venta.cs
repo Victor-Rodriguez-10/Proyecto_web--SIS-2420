@@ -13,6 +13,7 @@ namespace Venta_de_vehiculos_hyundai_bolivia.Controllers
         public int UsuarioId { get; set; }
         public int ClienteId { get; set; }
         public int VehiculoId { get; set; }
+        public decimal Total { get; set; }
 
         public virtual Usuario? Usuario { get; set; }
         public virtual Cliente? Cliente { get; set; }
